@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704532114577",
+    "firebase_url": "https://mtit-database.firebaseio.com",
+    "project_id": "mtit-database",
+    "storage_bucket": "mtit-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704532114577:android:d9b92d0e4545159880e330",
+        "android_client_info": {
+          "package_name": "com.example.jokesapart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704532114577-bljkmeo6k8qnhhoia7d79c76q1qmtrcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPfWmJqUzI5XvblCGgAjEMiTGTk34glTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704532114577-bljkmeo6k8qnhhoia7d79c76q1qmtrcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
