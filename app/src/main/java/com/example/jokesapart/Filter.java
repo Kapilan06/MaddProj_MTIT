@@ -28,6 +28,7 @@ public class Filter extends AppCompatActivity {
 
         listView=(ListView) findViewById(R.id.list_View);
 
+        // jokes list displayed in list view
         try {
             JSONObject obj= new JSONObject(LoadJsonJokes());
             JSONArray array=obj.getJSONArray( "jokes");

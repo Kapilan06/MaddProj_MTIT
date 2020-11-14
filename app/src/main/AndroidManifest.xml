@@ -6,10 +6,11 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:icon="@mipmap/ic_jokes_apart"
+        android:roundIcon="@mipmap/ic_jokes_apart"
+        android:label="jOkEsApArt"
         android:supportsRtl="true"
-        android:theme="@style/Theme.JokesApart">
+        android:theme="@style/Theme.Design.NoActionBar">
         <activity android:name=".Filter"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
